@@ -1,5 +1,5 @@
 print('menu')
-<<<<<<< HEAD
+<<<<<<< HEA
 print ('ข้อมูลใน ่branch dev')
 =======
 
